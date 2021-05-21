@@ -1,0 +1,1 @@
+insert into Counter values(1,0);
